@@ -75,8 +75,7 @@ npm run dev
 ---
 
 ## ✨ Screenshots
-
-> Add some screenshots of your UI here!
+![Task List](screenshots/image1.png)
 
 ---
 
